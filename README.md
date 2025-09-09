@@ -1,2 +1,2 @@
 # User-Registration-and-Payment-Form
-User Registration and Payment Form- A basic user registration form built using pure HTML. Created as part of my web development learning. Covers form structure, input types, field grouping, labels, placeholders, and required fields. 
+This project is a simple web form created as part of my web development learning. Initially, it was built using pure HTML to practice form structure, input types, labels, and required fields. Recently, I enhanced it by adding CSS styling to improve the layout and user experience. The updated version now includes better spacing, smoother borders, styled buttons, and hover effects, making the form more interactive and visually appealing.
